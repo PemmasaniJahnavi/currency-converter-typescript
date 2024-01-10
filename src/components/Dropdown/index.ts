@@ -2,7 +2,7 @@ export const customStyles = {
   menuList: (provided: any) => ({
     ...provided,
     maxHeight: "226px",
-    backgroundColor: "#212529",
+    backgroundColor: "#3e444a",
     borderRadius: "7px",
     padding: "0",
     color: "#fff",
