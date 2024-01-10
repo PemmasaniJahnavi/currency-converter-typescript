@@ -23,7 +23,7 @@
 }
 
 .currency-amount:focus {
-  background-color: #2e343a;
+  background-color: #3e444a;
 }
 
 .currency-from {
@@ -45,12 +45,12 @@
 }
 
 .currency-swap button:hover {
-  background-color: #383b4e;
+  background-color: #3e444a;
 }
 
 .currency-swap-btn {
   padding: 7px 16px 7px 16px;
-  background-color: #363742b7;
+  background-color: #3e444a;
   cursor: pointer;
   border-radius: 7px;
 }
