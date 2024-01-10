@@ -1,4 +1,4 @@
-export const heading: string = "Money machine";
+export const heading: string = "currency converter";
 const API_DOMAIN: string = "https://v6.exchangerate-api.com/v6";
 const API_KEY: string = "c6529a29cee69f0625ad841a";
 export const endpointPath = (from: string): string =>

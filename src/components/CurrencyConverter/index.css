@@ -2,7 +2,7 @@
   width: 400px;
   height: auto;
   border-radius: 10px;
-  background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Exchange_Money_Conversion_to_Foreign_Currency.jpg/2560px-Exchange_Money_Conversion_to_Foreign_Currency.jpg");
+  background-image:#212529;
 }
 
 .currency-app {
