@@ -2,7 +2,7 @@
   width: 400px;
   height: auto;
   border-radius: 10px;
-  background-color:#101211;
+  background-color:#181e1b;
 }
 
 .currency-app {
@@ -16,7 +16,7 @@
   outline: none;
   color: white;
   font-size: 17px;
-  background-color: #212529;
+  background-color: #c5cfd9;
   border-bottom: 3px solid white;
   -webkit-border-bottom: 3px solid white; 
   -moz-border-bottom: 3px solid white;
