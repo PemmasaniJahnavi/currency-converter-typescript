@@ -28,6 +28,7 @@
 
 .currency-from {
   padding-top: 30px;
+  background-color: #303133;
 }
 
 .currency-swap {
@@ -57,6 +58,7 @@
 
 .currency-into {
   padding-top: 17px;
+  background-color: #303133;
 }
 
 .space {
