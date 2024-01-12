@@ -37,8 +37,8 @@ const CurrencyConverter: React.FC = () => {
     try {
       setLoading(true);
       const response = await axios.get(url);
-      const parsedData = response.data;
-      if (intoValue in parsedData.conversion_rates) {
+            const parsedData = response.data;
+            if (intoValue in parsedData.conversion_rates) {
         const currencyRate = parsedData.conversion_rates[intoValue];
         const currencyResult = amountValue * currencyRate;
         const parsedUpdate = parsedData.time_last_update_utc;
