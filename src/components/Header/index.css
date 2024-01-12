@@ -4,10 +4,11 @@
 }
 
 .currency-header div {
-  color: white;
+  color: rgb(9, 9, 9);
   font-size: 40px;
   font-weight: 500;
   text-transform: uppercase;
+  background-color: white;
 }
 
 @media screen and (max-device-width: 480px) {
